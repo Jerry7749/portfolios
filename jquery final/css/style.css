@@ -53,6 +53,9 @@ img{
 
 
 /* ================== */
+*{
+    box-sizing: border-box;
+}
 body{
     font-family: Microsoft JhengHei;
     
@@ -409,7 +412,7 @@ body{
     
     .word textarea{
         width: 90%;
-        
+        margin: auto;
     }
     .item{
         text-align: center;
