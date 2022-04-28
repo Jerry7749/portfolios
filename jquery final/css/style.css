@@ -335,7 +335,7 @@ body{
         display: none;
     }
     .menu{
-        width: 100%;
+        width: 90%;
     }
 }
 
@@ -344,7 +344,7 @@ body{
     width: 1000px;
     background: linear-gradient(#00654b,#009671);
     padding-top: 38px;
-    margin-top: 60px;
+    margin: auto;
 }
 .nav h2{
     color: white;
@@ -398,7 +398,7 @@ body{
 @media(max-width:768px){
     .nav{
         display: block;
-        width: 100%;
+        width: 90%;
         
     }
     .information {
