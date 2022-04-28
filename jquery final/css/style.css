@@ -360,6 +360,7 @@ body{
 .information {
     display: flex;
 }
+
 .word textarea{
     width: 460px;
     height: 243px;
@@ -409,10 +410,14 @@ body{
         
         
     }
-    
+    .word{
+        padding-left: 35px;
+    }
     .word textarea{
         width: 90%;
         margin: auto;
+        
+        
     }
     .item{
         text-align: center;
